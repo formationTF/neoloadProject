@@ -1,0 +1,4 @@
+GET http://camstudio.org/checkdaversion/version2.xml HTTP/1.1
+User-Agent: CamStudio Recorder
+Host: camstudio.org
+

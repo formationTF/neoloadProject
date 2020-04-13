@@ -1,0 +1,7 @@
+GET http://r4---sn-25ge7nsd.gvt1.com/edgedl/release2/AIRyHyWgBJaobkW7OuKUmlA_734/Viu33w4X8R-UsWwzoy4jXg?cms_redirect=yes&mh=HR&mip=86.242.1.1&mm=28&mn=sn-25ge7nsd&ms=nvh&mt=1586778976&mv=m&mvi=3&pl=16&shardbypass=yes HTTP/1.1
+Accept: */*
+Accept-Encoding: identity
+Range: bytes=3526-3743
+User-Agent: Microsoft BITS/7.8
+Host: r4---sn-25ge7nsd.gvt1.com
+

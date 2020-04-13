@@ -1,0 +1,7 @@
+GET http://storage.googleapis.com/update-delta/hfnkpimlhhgieaddgfemjhofmfblmnib/5809/5808/833cce5901c5a36bee57e04b77d000b1dd80f2d744048932c8265cdbfaada1d8.crxd HTTP/1.1
+Accept: */*
+Accept-Encoding: identity
+Range: bytes=3464-4461
+User-Agent: Microsoft BITS/7.8
+Host: storage.googleapis.com
+

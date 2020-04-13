@@ -1,0 +1,8 @@
+POST http://update.googleapis.com/service/update2/json HTTP/1.1
+Host: update.googleapis.com
+Content-Length: 1060
+Content-Type: application/json
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36
+Accept-Encoding: gzip, deflate
+
+{"request":{"@os":"win","@updater":"chrome","acceptformat":"crx2,crx3","app":[{"appid":"hfnkpimlhhgieaddgfemjhofmfblmnib","event":[{"download_time_ms":8017,"downloaded":4462,"downloader":"bits","eventresult":1,"eventtype":14,"nextversion":"5809","previousversion":"5808","total":4462,"url":"http://storage.googleapis.com/update-delta/hfnkpimlhhgieaddgfemjhofmfblmnib/5809/5808/833cce5901c5a36bee57e04b77d000b1dd80f2d744048932c8265cdbfaada1d8.crxd"},{"diffresult":1,"eventresult":1,"eventtype":3,"nextfp":"1.4c14b9b66348dc82bc10b15bb323a976cb2ebd1313d2f6293787ef94ab569904","nextversion":"5809","previousfp":"1.e00d2ce8080abd76384ea2642d08ae6373888452f39e3004170d836eda37bcfc","previousversion":"5808"}],"version":"5809"}],"arch":"x64","dedup":"cr","hw":{"physmemory":16},"lang":"fr","nacl_arch":"x86-64","os":{"arch":"x86_64","platform":"Windows","version":"10.0.18362.720"},"prodversion":"81.0.4044.92","protocol":"3.1","requestid":"{5c53a4c2-80eb-49e7-ad09-2c1839556356}","sessionid":"{044d3795-1cd0-48f1-9c39-ee66b8453d90}","updaterversion":"81.0.4044.92"}}

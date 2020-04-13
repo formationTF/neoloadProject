@@ -1,0 +1,12 @@
+GET http://127.0.0.1:50229/s/u/quit?cdaction=KeepAlive HTTP/1.1
+Host: 127.0.0.1:50229
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:42.0) Gecko/20100101 opale3.7/3.7.001
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+scClientId: 5imt82s8.1
+scWsps: SUPELEC
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+
